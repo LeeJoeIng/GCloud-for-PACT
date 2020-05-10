@@ -1,0 +1,8 @@
+Flask
+Werkzeug
+python-louvain
+requests
+pyrebase
+community
+numpy
+networkx
